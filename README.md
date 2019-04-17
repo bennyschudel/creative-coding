@@ -15,4 +15,4 @@ This repository contains code examples for creative-coding using [canvas-sketch]
 `$ canvas-sketch sketches/card.js --open`
 
 ## Author
-Benny Schudel / @bennyschudel
+Benny Schudel / [@bennyschudel](https://twitter.com/bennyschudel)
