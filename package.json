@@ -1,0 +1,19 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.2.1",
+    "dat.gui": "^0.7.6",
+    "korg-nano-kontrol": "^0.2.9",
+    "lodash": "^4.17.11",
+    "p5": "^0.8.0"
+  }
+}
