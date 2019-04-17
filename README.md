@@ -10,9 +10,9 @@ This repository contains code examples for creative-coding using [canvas-sketch]
 
 ## Run experiments
 
-`$ canvas-sketch pantalk.js --open`
+`$ canvas-sketch sketches/pantalk.js --open`
 
-`$ canvas-sketch card.js --open`
+`$ canvas-sketch sketches/card.js --open`
 
 ## Author
 Benny Schudel / @bennyschudel
